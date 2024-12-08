@@ -153,12 +153,6 @@ This project combines **computer vision** and **embedded systems** to detect han
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Author
 
 Adriel Magalona  
